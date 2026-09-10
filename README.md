@@ -79,6 +79,12 @@ PCCA — Plataforma de Compartilhamento de Conhecimento
 
 Projeto desenvolvido para fins acadêmicos e de desenvolvimento de software.
 
+## Protótipo
+
+Confira o protótipo completo do aplicativo PCCA em PDF:
+
+[**Visualizar protótipo do PCCA Mobile (PDF)**](prototipo-pcca-mobile.pdf)
+
 ## Autor
 
 Jonnas Pedro Beserra Gonçalves
